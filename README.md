@@ -11,7 +11,7 @@ This project is a basic online calculator implemented in HTML, CSS, and JavaScri
 ## How to Use
 
 1. **Open the Calculator**
-   - Load the `index.html` file in any modern web browser to start using the calculator.
+   - Load the `calculator.html` file in any modern web browser to start using the calculator.
 
 2. **Perform Calculations**
    - Click on the number buttons to enter numbers.
@@ -29,13 +29,13 @@ This project is a basic online calculator implemented in HTML, CSS, and JavaScri
 
 To run this calculator locally:
 1. Download the project files to your local machine.
-2. Open the `index.html` file in a web browser.
+2. Open the `calculator.html` file in a web browser.
 
 ## Project Structure
 
-- `index.html`: Contains the markup for the calculator.
-- Inline `CSS`: Styles are included within the `index.html` for simplicity and quick setup.
-- Inline `JavaScript`: Script for the calculator's functionality is embedded directly within the `index.html` file.
+- `calculator.html`: Contains the markup for the calculator.
+- Inline `CSS`: Styles are included within the `calculator.html` for simplicity and quick setup.
+- Inline `JavaScript`: Script for the calculator's functionality is embedded directly within the `calculator.html` file.
 
 ## Future Enhancements
 
