@@ -37,6 +37,10 @@ To run this calculator locally:
 - Inline `CSS`: Styles are included within the `calculator.html` for simplicity and quick setup.
 - Inline `JavaScript`: Script for the calculator's functionality is embedded directly within the `calculator.html` file.
 
+### URL of Online Calculator Google Slides presentation
+
+[Online Calculator Presentation](https://drive.google.com/file/d/1eNmv7iNNXJMPSJnexjNG3TpW-MQrqUvC/view?usp=sharing)
+
 ## Future Enhancements
 
 - **Extended Functionality**: Adding functionality for more complex mathematical operations like exponentiation, square roots, etc.
